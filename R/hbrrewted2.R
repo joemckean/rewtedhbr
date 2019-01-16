@@ -1,3 +1,4 @@
+# comment
 hbrrewted2 <-
 function (x, y, percent = 0.95, ehat0 = ltsreg(x, y)$residuals) 
 {
